@@ -18,6 +18,7 @@ typedef struct
 sCT1780_t sensorCt1780;
 void setup() {
   Serial.begin(115200);
+  while(!Serial);
   Serial.print("search CT1780...");
   /**
    * @fn: searchDevice
