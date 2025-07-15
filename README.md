@@ -1,7 +1,7 @@
 DFRobot_CT1780
 ===========================
 
-* [中文版](./README_CN.md)
+* [English Version](./README_CN.md)
 
 1-Wire High Temperature Sersor (K-type)
 
