@@ -1,7 +1,7 @@
 DFRobot_CT1780
 ===========================
 
-- [英文版](./README.md)
+- [English Version](./README.md)
 
 数字K型高温传感器
 
@@ -67,7 +67,7 @@ DFRobot_CT1780
 
 ```
 ## 兼容性
-MCU                | Work Well    | Work Wrong   |   Untested   |
+MCU                | 表现良好   | 表现异常   |   未测试   |
 ------------------ | :----------: | :----------: | :----------: | 
 Arduino Uno        |      √       |              |              |
 Mega2560           |      √       |              |              |
